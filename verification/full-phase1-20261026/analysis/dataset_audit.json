@@ -1,0 +1,24 @@
+{
+  "shape": [
+    34272,
+    207
+  ],
+  "start": "2012-03-01 00:00:00",
+  "end": "2012-06-27 23:55:00",
+  "timezone": "None",
+  "sampling_minutes": 5,
+  "missing_fraction": 0.08109350825676487,
+  "train_missing_fraction": 0.07133267352815713,
+  "observed_min": 0.3333333432674408,
+  "observed_max": 70.0,
+  "source_unit": "mph as described by benchmark source; not encoded by this loader",
+  "input_channels": [
+    "speed"
+  ],
+  "training_fit_end": "2012-05-23 06:45:00",
+  "licensing": "Code license: MIT. Raw-data redistribution terms remain unverified.",
+  "test_exposure": "Already inspected; descriptive/exploratory results only.",
+  "outage_runs": 17867,
+  "longest_outage_minutes": 5800,
+  "training_all_sensor_missing_steps": 1301
+}
